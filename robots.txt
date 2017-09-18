@@ -2,5 +2,5 @@
 
 # Allow crawling of all content
 User-agent: *
-Sitemap: http://staub-nachhaltigkeit.ch/sitemap.xml
+Sitemap: https://staub-nachhaltigkeit.ch/sitemap.xml
 Disallow:
